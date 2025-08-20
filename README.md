@@ -38,3 +38,5 @@ Uygulama, YouTube’da arama yapmanıza, filtre uygulamanıza, video sonuçları
 git clone https://github.com/rdvan45keskin/YoutubeSearchBot.git
 cd YoutubeSearchBot
 
+1. App.py dosyasını çalıştırın
+

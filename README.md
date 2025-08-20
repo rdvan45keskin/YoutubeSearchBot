@@ -23,7 +23,9 @@ Uygulama, YouTube’da arama yapmanıza, filtre uygulamanıza, video sonuçları
 ---
 
 ## 📸 Ekran Görüntüleri
-*(Buraya uygulamanın ekran görüntülerini ekleyebilirsiniz)*
+(screenshot_1.png)
+(screenshot_2.png)
+(screenshot_3.png)
 
 ---
 
